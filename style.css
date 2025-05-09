@@ -2,6 +2,11 @@ body {
     margin: 0; /* Remove goofy default margin */
     padding: 0; 
 }
+.nav-logo {
+    height: 1em; /* Match the text size */
+    width: auto;
+    vertical-align: middle;
+}
 /*make vscode let me commit again*/
 ul {
     list-style-type: none;
