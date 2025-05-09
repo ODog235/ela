@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <!-- Background circle -->
+  <circle cx="150" cy="150" r="140" fill="#F1FAEE" stroke="#1D3557" stroke-width="10"></circle>
+
+  <!-- Main acronym -->
+  <text x="150" y="130" text-anchor="middle" font-family="Serif" font-size="48" fill="#1D3557" font-weight="bold">
+    TAFAF
+  </text>
+
+  <!-- Wrapped full name, two lines -->
+  <text x="150" y="180" text-anchor="middle" font-family="Sans-serif" font-size="16" fill="#1D3557">
+    <tspan x="150" dy="0">The Association For</tspan>
+    <tspan x="150" dy="20">Academic Freedom</tspan>
+  </text>
+</svg>
