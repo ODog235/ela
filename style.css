@@ -3,9 +3,11 @@ body {
     padding: 0; 
 }
 .nav-logo {
-    height: 10em; /* Match the text size */
+    height: 46px;  /* Match the height of the nav bar */
     width: auto;
-    vertical-align: middle;
+    display: block;
+    /*padding: 0 16px;  match link horizontal padding */
+    object-fit: contain;
 }
 /*make vscode let me commit again*/
 ul {
